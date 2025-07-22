@@ -1,0 +1,7 @@
+/home/gabrielsousa/projects/java/spring-boot-course/05-spring-boot-rest-security/00-spring-boot-rest-security-employee-starter-code/src/main/java/com/luv2code/springboot/restdemo/RestdemoApplication.java
+/home/gabrielsousa/projects/java/spring-boot-course/05-spring-boot-rest-security/00-spring-boot-rest-security-employee-starter-code/src/main/java/com/luv2code/springboot/restdemo/controller/EmployeeController.java
+/home/gabrielsousa/projects/java/spring-boot-course/05-spring-boot-rest-security/00-spring-boot-rest-security-employee-starter-code/src/main/java/com/luv2code/springboot/restdemo/entity/Employee.java
+/home/gabrielsousa/projects/java/spring-boot-course/05-spring-boot-rest-security/00-spring-boot-rest-security-employee-starter-code/src/main/java/com/luv2code/springboot/restdemo/repository/EmployeeRepository.java
+/home/gabrielsousa/projects/java/spring-boot-course/05-spring-boot-rest-security/00-spring-boot-rest-security-employee-starter-code/src/main/java/com/luv2code/springboot/restdemo/security/DemoSecurityConfiguration.java
+/home/gabrielsousa/projects/java/spring-boot-course/05-spring-boot-rest-security/00-spring-boot-rest-security-employee-starter-code/src/main/java/com/luv2code/springboot/restdemo/service/EmployeeService.java
+/home/gabrielsousa/projects/java/spring-boot-course/05-spring-boot-rest-security/00-spring-boot-rest-security-employee-starter-code/src/main/java/com/luv2code/springboot/restdemo/service/IEmployeeService.java
