@@ -8,5 +8,5 @@ public interface IEmployeeService {
     List<Employee> findAll();
     Employee findById(Long id);
     Employee save(Employee employee);
-
+    void deleteById(Long id);
 }

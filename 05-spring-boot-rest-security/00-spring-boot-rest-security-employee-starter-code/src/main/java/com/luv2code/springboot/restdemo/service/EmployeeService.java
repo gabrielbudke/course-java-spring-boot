@@ -38,4 +38,9 @@ public class EmployeeService implements IEmployeeService {
     public Employee save(Employee employee) {
         return employeeRepository.save(employee);
     }
+
+    @Override
+    public void deleteById(Long id) {
+        employeeRepository.deleteById(id);
+    }
 }

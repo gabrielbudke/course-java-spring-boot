@@ -53,6 +53,7 @@ public class DemoSecurityConfiguration {
         http.httpBasic(Customizer.withDefaults());
 
         // disable Cross Site Request Forgery
+        // in general, not required for stateless REST APIs that use POST, PUT, DELETE and/or PATCH
         http.csrf(httpSecurityCsrfConfigurer -> httpSecurityCsrfConfigurer.disable());
 
         return http.build();
