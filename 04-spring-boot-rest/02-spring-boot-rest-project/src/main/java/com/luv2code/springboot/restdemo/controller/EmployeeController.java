@@ -1,10 +1,9 @@
 package com.luv2code.springboot.restdemo.controller;
 
-import com.fasterxml.jackson.databind.JsonMappingException;
-import com.fasterxml.jackson.databind.json.JsonMapper;
 import com.luv2code.springboot.restdemo.entity.Employee;
 import com.luv2code.springboot.restdemo.service.EmployeeService;
 import org.springframework.web.bind.annotation.*;
+import tools.jackson.databind.json.JsonMapper;
 
 import java.util.List;
 import java.util.Map;
@@ -66,7 +65,7 @@ public class EmployeeController {
 
     // add mapping for PATCH
     @PatchMapping("{id}")
-    public Employee patchEmployee(@PathVariable Long id, @RequestBody Map<String, Object> patchPayload) throws JsonMappingException {
+    public Employee patchEmployee(@PathVariable Long id, @RequestBody Map<String, Object> patchPayload) {
 
         Employee currentEmployee = employeeService.findById(id);
 
