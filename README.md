@@ -16,10 +16,11 @@
   <a href="#page_facing_up-files">Files</a> 
 </p>
 
-## 📌 Info
+
+## :pushpin: Info
 Códigos implementados durante o curso Spring Boot 3, Spring 6 & Hibernate for Beginners da Udemy
 
-## 🧩 Modules
+## :jigsaw: Modules
 1. [Overview](01-spring-boot-overview)
 2. [Core](02-spring-boot-core/README.md)
 3. [Hibernate and JPA](03-spring-boot-hibernate-jpa/README.md)

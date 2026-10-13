@@ -6,9 +6,7 @@
   <h1>Curso | Spring Boot 3, Spring 6 & Hibernate for Beginners</h1>
 </div>
 
-<h2 align="center">
-  Overview
-</h2>
+### :pushpin: Info
 
 O foco é estabelecer as bases para o desenvolvimento de uma aplicação utilizando Spring Boot e Hibernate. 
 
