@@ -3,12 +3,12 @@
 </div>
 
 <div align="center">
-  <h2>Curso | Spring Boot 3, Spring 6 & Hibernate for Beginners</h2>
+  <h1>Curso | Spring Boot 3, Spring 6 & Hibernate for Beginners</h1>
 </div>
 
-<h1 align="center">
+<h2 align="center">
   Overview
-</h3>
+</h2>
 
 O foco é estabelecer as bases para o desenvolvimento de uma aplicação utilizando Spring Boot e Hibernate. 
 
