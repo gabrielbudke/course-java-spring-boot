@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8525c07b-bf1c-43ea-9b0d-e975e1584413" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000822296380985" />
+      <entry key="MS500" value="1.1686238123334531" />
+      <entry key="S2" value="2.1981269085059196" />
+      <entry key="S5" value="3.831723580347927" />
+      <entry key="S10" value="6.408099729982612" />
+      <entry key="S30" value="12.93050282998937" />
+      <entry key="S60" value="16.585092802178266" />
+      <entry key="M2" value="19.03735083062397" />
+      <entry key="M5" value="22.085248115759867" />
+      <entry key="M10" value="27.804044949684048" />
+      <entry key="M15" value="33.57461796630802" />
+      <entry key="M30" value="47.953802762580864" />
+      <entry key="H1" value="64.13910056922688" />
+      <entry key="H2" value="77.01170674514644" />
+      <entry key="H4" value="85.24288650329791" />
+      <entry key="D1" value="93.25531422218108" />
+      <entry key="W1" value="94.74767768932583" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="5.6146556895929546E-185" />
+      <entry key="S5" value="1.994218383429969E-74" />
+      <entry key="S10" value="1.4386888950755965E-37" />
+      <entry key="S30" value="9.363638657371878E-13" />
+      <entry key="S60" value="2.349488194273833E-6" />
+      <entry key="M2" value="0.0042210031960022735" />
+      <entry key="M5" value="0.4062449600831544" />
+      <entry key="M10" value="2.077772642808952" />
+      <entry key="M15" value="4.054148409931802" />
+      <entry key="M30" value="9.51842172072262" />
+      <entry key="H1" value="16.06400701679552" />
+      <entry key="H2" value="21.409657427470705" />
+      <entry key="H4" value="24.868749581568043" />
+      <entry key="D1" value="28.259134833846108" />
+      <entry key="W1" value="28.89279978362198" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.0020591283098038687" />
+      <entry key="MS500" value="0.4380678026937536" />
+      <entry key="S2" value="1.7631764246213715" />
+      <entry key="S5" value="3.4800402349798345" />
+      <entry key="S10" value="6.113951226649243" />
+      <entry key="S30" value="12.765780263150754" />
+      <entry key="S60" value="16.488683497070422" />
+      <entry key="M2" value="18.989095347600315" />
+      <entry key="M5" value="22.465772036385395" />
+      <entry key="M10" value="29.860183478217657" />
+      <entry key="M15" value="37.60719511747549" />
+      <entry key="M30" value="57.45166822027721" />
+      <entry key="H1" value="80.18709769713895" />
+      <entry key="H2" value="98.41104766624602" />
+      <entry key="H4" value="110.10573462495839" />
+      <entry key="D1" value="121.5133445347459" />
+      <entry key="W1" value="123.64031646129695" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3KcUiR0q854oP5PzZXXIGearFqa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.RestDemoApplication.java.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.github.patou.gitmoji.migration-offered": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "//wsl.localhost/Ubuntu/home/gabrielsousa/projetos/java/course-java-spring-boot/04-spring-boot-rest/05-spring-boot-rest-project-with-openapi-and-swagger",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propCompiler"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="RestDemoApplication.java" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.springboot.restdemo.RestdemoApplication" />
+      <module name="restdemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8525c07b-bf1c-43ea-9b0d-e975e1584413" name="Changes" comment="" />
+      <created>1759869371549</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759869371549</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
